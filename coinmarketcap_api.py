@@ -26,4 +26,4 @@ for info in data:
   price = usd["price"]
 
   if symbol_in.lower()==symbol.lower():
-    print(f"[El precio de {symbol_in.upper()} es ${price}]")
+    print(f"[El precio de {symbol_in.upper()} es ${round(price, 4)}]")
