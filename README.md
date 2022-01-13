@@ -1,4 +1,4 @@
-# coinmarketcap-api-consumer
+# CoinMarketCap Api Consumer
 
 ## Introduction
 
